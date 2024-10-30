@@ -1,0 +1,14 @@
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\bin\Debug\net8.0\ValidacaoDados.exe
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\bin\Debug\net8.0\ValidacaoDados.deps.json
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\bin\Debug\net8.0\ValidacaoDados.runtimeconfig.json
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\bin\Debug\net8.0\ValidacaoDados.dll
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\bin\Debug\net8.0\ValidacaoDados.pdb
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\ValidacaoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\ValidacaoDados.AssemblyInfoInputs.cache
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\ValidacaoDados.AssemblyInfo.cs
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\ValidacaoDados.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\ValidacaoDados.dll
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\refint\ValidacaoDados.dll
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\ValidacaoDados.pdb
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\ValidacaoDados.genruntimeconfig.cache
+C:\dev\CursoC#\DesafiosCSharp\ValidacaoDados\obj\Debug\net8.0\ref\ValidacaoDados.dll

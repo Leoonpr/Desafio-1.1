@@ -1,0 +1,14 @@
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\bin\Debug\net8.0\Intervalo.exe
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\bin\Debug\net8.0\Intervalo.deps.json
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\bin\Debug\net8.0\Intervalo.runtimeconfig.json
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\bin\Debug\net8.0\Intervalo.dll
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\bin\Debug\net8.0\Intervalo.pdb
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\Intervalo.AssemblyInfoInputs.cache
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\Intervalo.AssemblyInfo.cs
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\Intervalo.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\Intervalo.dll
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\refint\Intervalo.dll
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\Intervalo.pdb
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\Intervalo.genruntimeconfig.cache
+C:\dev\CursoC#\DesafiosCSharp\Intervalo\obj\Debug\net8.0\ref\Intervalo.dll
